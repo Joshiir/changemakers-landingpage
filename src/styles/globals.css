@@ -10,7 +10,7 @@
       @apply text-3xl sm:text-6xl tracking-wider sm:tracking-tight font-black leading-relaxed text-rose-500;
     }
     h2 {
-      @apply text-2xl;
+      @apply text-2xl text-white font-bold tracking-wider;
     }
     h3 {
       @apply text-xl;

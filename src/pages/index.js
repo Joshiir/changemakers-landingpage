@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
 import CTA from '@/components/cta'
+import Testimonials from '@/components/testimonials'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -15,6 +16,7 @@ export default function Home() {
       </Head>
       <main>
         <CTA />
+        <Testimonials />
       </main>
     </>
   )
