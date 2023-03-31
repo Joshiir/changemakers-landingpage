@@ -1,7 +1,7 @@
 const Testimonials = () => { 
 
     return (
-        <div className="flex flex-col justify-center items-center sm:max-w-screen-2xl w-full mb-32 mx-auto">
+        <div className="flex flex-col justify-center items-center sm:max-w-screen-2xl w-full mx-auto">
             <div className="p-4 m-8">
                 <h2>Hear from others just like you!</h2>
             </div>
